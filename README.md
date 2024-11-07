@@ -11,7 +11,7 @@ I'm a data science undergraduate from SLTC Research University with a passion fo
 - 🛠️ Interested in Machine Learning, Data Analysis, Network Security, and Web Development.
 - 💬 Feel free to ask me about Python, C programming, Data Analysis, and MATLAB.
 - 🌱 Currently learning Django.
-- 📫 Reach me at sithumsiriwardana@gmail.com or LinkedIn - www.linkedin.com/in/induwara-siriwardana-b4aa31264
+- 📫 Reach me at sithumsiriwardana@gmail.com or [LinkedIn](www.linkedin.com/in/induwara-siriwardana-b4aa31264)
 
 ---
 

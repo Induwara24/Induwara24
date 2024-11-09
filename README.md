@@ -11,30 +11,47 @@ I'm a data science undergraduate from SLTC Research University with a passion fo
 - 🛠️ Interested in Machine Learning, Data Analysis, Network Security, and Web Development.
 - 💬 Feel free to ask me about Python, C programming, Data Analysis, and MATLAB.
 - 🌱 Currently learning Django.
-- 📫 Reach me at sithumsiriwardana@gmail.com or [LinkedIn](www.linkedin.com/in/induwara-siriwardana-b4aa31264)
+- 📫 Reach me at sithumsiriwardana@gmail.com
 
 ---
 
-## 🔧 Languages and Tools
-- Python
-- C
-- HTML
-- CSS
-- MySQL
-- VS Code
-- Jupyter Notebook
-- MATLAB
+<h3 align="center">Languages and Frameworks</h3>
+
+<h1 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,bootstrap,mysql,"/>
+  </a>
+</h1>
+
+
+<br>
+
+<h3 align="center">Tools and Technologies</h3>
+
+<h1 align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,docker,azure,git,github,matlab,octave,anaconda,figma"/>
+  </a>
+</h1>
+
+<br>
+
+## 🔧 Machine Learning and Data Analysis
+
+- Sklearn
+- Scapy
+- Pandas
+- Numpy
+- Seaborn 
 - Power BI
 - Microsoft Fabric
-- Docker
-- Git
-- GitHub
+
 
 ---
 
 ## 🌟 Featured Projects
 ### [📊 SENTRINET - Network Intrusion Detection System](https://github.com/thxrxsh/SENTRINET)
-A machine-learning-powered intrusion detection system for network security. Detects malicious activity in real-time and provides alerts.
+A machine-learning-powered intrusion detection system for network security. Detects malicious activity in real time and provides alerts.
 
 ---
 
@@ -50,3 +67,13 @@ A machine-learning-powered intrusion detection system for network security. Dete
 ## 🤝 Let's Connect
 
 Feel free to explore my projects, reach out for collaboration, or just say hello! 😊
+<h1 align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/induwara-siriwardana-b4aa31264"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://github.com/Induwara24"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="https://stackoverflow.com/users/21143883/induwara-sithum"><img src="https://skillicons.dev/icons?i=stackoverflow"/></a>
+<a href="sithumsiriwardana@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://www.instagram.com/induwara_24"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  
+</h1>
+
+<br><br>

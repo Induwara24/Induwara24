@@ -8,7 +8,7 @@ I'm a data science undergraduate from SLTC Research University with a passion fo
 ## 🚀 About Me
 - 🎓 Data Science Undergraduate
 - 🔭 Currently working as a member of the IEEE Computer Society of SLTC Research University.
-- 🛠️ Interested in Machine Learning, Data Analysis, Network Security, and Web Development.
+- 🛠️ Interested in Machine Learning, Data Science, Data Analysis, Artificial Intelligence and Web Development.
 - 💬 Feel free to ask me about Python, C programming, Data Analysis, and MATLAB.
 - 🌱 Currently learning Django.
 - 📫 Reach me at sithumsiriwardana@gmail.com

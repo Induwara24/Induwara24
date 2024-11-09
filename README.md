@@ -3,7 +3,7 @@
 ![Brown Modern Travel Facebook Cover 1](https://github.com/user-attachments/assets/4c4d64b1-0909-41b1-aeda-7060f154b206)
 
 Hello, welcome to my GitHub profile! My name is Induwara Sithum Siriwardana.
-I'm a data science undergraduate from SLTC Research University with a passion for machine learning, data analysis and artificial intelligence. I'm currently working on several projects and always eager to learn and collaborate.
+I'm a data science undergraduate from SLTC Research University passionate about machine learning, data analysis and artificial intelligence. I'm currently working on several projects and always eager to learn and collaborate.
 
 ## 🚀 About Me
 - 🎓 Data Science Undergraduate
@@ -19,7 +19,7 @@ I'm a data science undergraduate from SLTC Research University with a passion fo
 
 <h1 align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,bootstrap,mysql,"/>
+    <img src="https://skillicons.dev/icons?i=c,python,html,css,bootstrap,mysql"/>
   </a>
 </h1>
 

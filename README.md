@@ -43,8 +43,7 @@ I'm a data science undergraduate from SLTC Research University, and I'm passiona
     <img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="Pandas" width="50" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="![image](https://github.com/user-attachments/assets/e33a2e0b-b550-4f46-a6b0-b2338b79aef3)
-" alt="Scikit-Learn" width="50" height="40"/>
+    <img src="https://images.seeklogo.com/logo-png/33/1/scikit-learn-logo-png_seeklogo-337685.png" alt="Scikit-Learn" width="50" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-950x1024-yxmpudmi.png" alt="NumPy" width="40" height="40"/>

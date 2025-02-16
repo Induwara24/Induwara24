@@ -43,7 +43,7 @@ I'm a data science undergraduate from SLTC Research University, and I'm passiona
     <img src="https://pandas.pydata.org//static/img/favicon_white.ico" alt="Pandas" width="50" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank">
-    <img src="[https://cilans.net/wp-content/uploads/2019/09/scikit-learn-logo-notext-1.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/390px-Scikit_learn_logo_small.svg.png)" width="50" height="40"/>
+    <img src="https://www.google.com/imgres?q=scikit%20learn%20logo&imgurl=https%3A%2F%2Fimages.seeklogo.com%2Flogo-png%2F33%2F1%2Fscikit-learn-logo-png_seeklogo-337685.png&imgrefurl=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F337685%2Fscikit-learn&docid=jtC7FLO2KcuuuM&tbnid=1CX6iWE880-93M&vet=12ahUKEwiD58LS58iLAxV1slYBHWENMtoQM3oECGkQAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwiD58LS58iLAxV1slYBHWENMtoQM3oECGkQAA" width="50" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank">
     <img src="https://static-00.iconduck.com/assets.00/file-type-numpy-icon-950x1024-yxmpudmi.png" alt="NumPy" width="40" height="40"/>
